@@ -1,0 +1,6 @@
+user_id: 123456
+name: Budi Santoso
+job: Karyawan Swasta
+age: 30
+status: Menikah
+uri: gs://data_user_curhat/data/data.txt
